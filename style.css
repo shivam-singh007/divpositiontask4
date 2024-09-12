@@ -1,0 +1,57 @@
+.outer{
+    height: 300px;
+    width:500px;
+    background-color: gray;
+    margin: 100px 300px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+}
+
+.firstbox{
+    height: 90px;
+    width: 80px;
+    background-color: rgb(11, 43, 11);
+    color: yellowgreen;
+    border-radius: 8px ;
+    position: absolute;
+    top: 150px;
+    left: 380px;
+    box-shadow: 1px 2px 3px;
+}
+
+.secondbox{
+    height: 90px;
+    width: 80px;
+    background-color: rgb(11, 43, 11);
+    color: yellowgreen;
+    border-radius: 8px;
+    position: absolute;
+    top: 235px;
+    left: 350px;
+    box-shadow: 1px 2px 3px;
+}
+
+.thirdbox{
+    height: 90px;
+    width: 80px;
+    background-color: rgb(11, 43, 11);
+    color: yellowgreen;
+    border-radius: 8px;
+    position: absolute;
+    top: 120px;
+    left: 710px;
+    box-shadow: 0px 0px 0px;
+}
+
+.fourthbox{
+    height: 90px;
+    width: 80px;
+    background-color: rgb(11, 43, 11);
+    color: yellowgreen;
+    border-radius: 8px;
+    position: absolute;
+    top: 310px;
+    left: 650px;
+}
